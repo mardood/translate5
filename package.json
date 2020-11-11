@@ -1,0 +1,18 @@
+{
+  "name": "tapi",
+  "version": "1.0.0",
+  "main": "index2.js",
+  "dependencies": {
+    "@k3rn31p4nic/google-translate-api": "^1.1.1",
+    "discord.js": "^12.4.1",
+    "node-tesseract-ocr": "^2.0.0",
+    "unofficial-jisho-api": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
